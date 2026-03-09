@@ -64,7 +64,7 @@
 "63","1","FIN1019MTCX","1/1 Transceiver Full LVDS 14-TSSOP","14-TSSOP","U10","onsemi","FIN1019MTCX","No Substitutions"
 "64","1","TPSM82913","Non-Isolated PoL Module DC DC Converter 1 Output 0.8 ~ 5.5V 3A 3V - 17V Input, 28-B0QFN (4.5x5.5)","28-B0QFN (4.5x5.5mm)","U11","Texas Instruments","TPSM82913RDUR","No Substitutions"
 "65","1","LM27761","Charge Pump Switching Regulator IC Negative Adjustable -1.5V 1 Output 250mA 8-WFDFN Exposed Pad","8-WFDFN (2x2mm)","U13","Texas Instruments","LM27761DSGR","No Substitutions"
-"66","1","IC FPGA XC7A35T-2CSG325C","Artix-7 FPGA, 150 User I/Os, 4 GTP, 324-Ball BGA, Speed Grade 2, Commercial Grade, Pb-Free","324-BGA (15x15mm)","U18","Xilinx","XC7A35T-2CSG325C","No Substitutions"
+"66","1","IC FPGA XC7A35T-2CSG325C","Artix-7 FPGA, 150 User I/Os, 4 GTP, 324-Ball BGA, Speed Grade 2, Commercial Grade, Pb-Free","324-BGA (15x15mm)","U18","Xilinx","XC7A35T-2CSG325C","No Substitutions","Note that this part has changed from the XC7A50T-2CSG325C used on PVT"
 "67","1","MX25L6433FZNI-08G","FLASH - NOR Memory IC 64Mbit SPI - Quad I/O 133 MHz 8-WSON (6x5)","8-WSON (6x5mm)","U19","Macronix","MX25L6433FZNI-08G-TR","ECO Required for Substitution"
 "68","4","TMUX4053","3 Circuit IC Switch 2:1 240Ohm 16-SOT-23-THIN","16-SOT-23-THIN","U1001_1,U1001_2,U1001_3,U1001_4","Texas Instruments","TMUX4053DYYR","No Substitutions"
 "69","4","LMH6518","Variable Gain Amplifier 1 Circuit Differential 16-WQFN (4x4)","16-WQFN (4x4mm)","U1008_1,U1008_2,U1008_3,U1008_4","Texas Instruments","LMH6518SQX/NOPB","No Substitutions"
