@@ -1,6 +1,9 @@
-ERC report (2026-01-22T13:09:17-0500, Encoding UTF8)
+ERC report (2026-03-09T12:18:25-0400, Encoding UTF8)
 
 ***** Sheet /
+[lib_symbol_mismatch]: Symbol 'RES ARRAY 2x 10K OHM 0.05% 0606' doesn't match copy in library 'Thunderscope_Rev5'
+    ; warning
+    @(175.26 mm, 121.92 mm): Symbol R13 [RES ARRAY 2x 10K OHM 0.05% 0606]
 
 ***** Sheet /CH4/
 
@@ -83,4 +86,4 @@ ERC report (2026-01-22T13:09:17-0500, Encoding UTF8)
     ; error
     @(205.74 mm, 139.70 mm): Symbol U17 Pin 5 [SW, Power input, Line]
 
- ** ERC messages: 11  Errors 11  Warnings 0
+ ** ERC messages: 12  Errors 11  Warnings 1

@@ -1038,173 +1038,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Thunderscope_Rev5:RES 10 OHM 1% 1/16W 0402"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "10"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Thunderscope_Rev5:GEN_R_0402"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "10 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PACKAGE" "0402"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "SUPPLIER 1" "Mouser"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "SUPPLIER PART NUMBER 1" "603-RC0402FR-0710RL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Yageo"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "HOUSE PART NUMBER" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER PART NUMBER" "RC0402FR-0710RL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "TOLERANCE" "1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RES 10 OHM 1% 1/16W 0402_1_0"
-				(rectangle
-					(start 3 0.976)
-					(end -3 -1.056)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Thunderscope_Rev5:RES 120 OHM 1% 1/16W 0402"
 			(pin_numbers
 				(hide yes)
@@ -1489,6 +1322,173 @@
 				)
 			)
 			(symbol "RES 300 OHM 0.1% 1/16W 0402_1_0"
+				(rectangle
+					(start 3 0.976)
+					(end -3 -1.056)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Thunderscope_Rev5:RES 4.99 OHM 1% 1/16W 0402"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "4.99"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Thunderscope_Rev5:GEN_R_0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "4.99 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PACKAGE" "0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SUPPLIER 1" "Mouser"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SUPPLIER PART NUMBER 1" "603-RC0402FR-074R99L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Yageo"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "HOUSE PART NUMBER" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER PART NUMBER" "RC0402FR-074R99L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "TOLERANCE" "1%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RES 4.99 OHM 1% 1/16W 0402_1_0"
 				(rectangle
 					(start 3 0.976)
 					(end -3 -1.056)
@@ -2290,7 +2290,7 @@
 		(uuid "ddc9705c-7d0e-49c3-bccf-c733d49788f4")
 	)
 	(symbol
-		(lib_id "Thunderscope_Rev5:RES 10 OHM 1% 1/16W 0402")
+		(lib_id "Thunderscope_Rev5:RES 4.99 OHM 1% 1/16W 0402")
 		(at 177.8 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2306,7 +2306,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "4.99"
 			(at 177.8 111.76 0)
 			(effects
 				(font
@@ -2332,7 +2332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
+		(property "Description" "4.99 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
 			(at 177.8 111.76 0)
 			(effects
 				(font
@@ -2359,7 +2359,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER PART NUMBER 1" "603-RC0402FR-0710RL"
+		(property "SUPPLIER PART NUMBER 1" "603-RC0402FR-074R99L"
 			(at 177.8 111.76 0)
 			(effects
 				(font
@@ -2386,7 +2386,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER PART NUMBER" "RC0402FR-0710RL"
+		(property "MANUFACTURER PART NUMBER" "RC0402FR-074R99L"
 			(at 177.8 111.76 0)
 			(effects
 				(font
@@ -3329,7 +3329,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Thunderscope_Rev5:RES 10 OHM 1% 1/16W 0402")
+		(lib_id "Thunderscope_Rev5:RES 4.99 OHM 1% 1/16W 0402")
 		(at 177.8 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3345,7 +3345,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "4.99"
 			(at 177.8 106.68 0)
 			(effects
 				(font
@@ -3371,7 +3371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
+		(property "Description" "4.99 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
 			(at 177.8 106.68 0)
 			(effects
 				(font
@@ -3398,7 +3398,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER PART NUMBER 1" "603-RC0402FR-0710RL"
+		(property "SUPPLIER PART NUMBER 1" "603-RC0402FR-074R99L"
 			(at 177.8 106.68 0)
 			(effects
 				(font
@@ -3425,7 +3425,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER PART NUMBER" "RC0402FR-0710RL"
+		(property "MANUFACTURER PART NUMBER" "RC0402FR-074R99L"
 			(at 177.8 106.68 0)
 			(effects
 				(font

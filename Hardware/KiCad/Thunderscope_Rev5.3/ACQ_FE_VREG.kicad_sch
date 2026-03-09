@@ -2206,7 +2206,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Thunderscope_Rev5:IC LDO TPS7A2033"
+		(symbol "Thunderscope_Rev5:IC LDO NCP161ASN330T1G"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2218,7 +2218,7 @@
 					)
 				)
 			)
-			(property "Value" "TPS7A2033"
+			(property "Value" "NCP161ASN330T1G"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2244,7 +2244,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 300mA SOT-23-5"
+			(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 450mA SOT-23-5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2253,7 +2253,7 @@
 					(hide yes)
 				)
 			)
-			(property "MANUFACTURER" "Texas Instruments"
+			(property "MANUFACTURER" "onsemi"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2271,7 +2271,7 @@
 					(hide yes)
 				)
 			)
-			(property "MANUFACTURER PART NUMBER" "TPS7A2033PDBVR"
+			(property "MANUFACTURER PART NUMBER" "NCP161ASN330T1G"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2280,7 +2280,7 @@
 					(hide yes)
 				)
 			)
-			(property "SUPPLIER 1" "Texas Instruments"
+			(property "SUPPLIER 1" "Mouser"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2289,7 +2289,7 @@
 					(hide yes)
 				)
 			)
-			(property "SUPPLIER PART NUMBER 1" "TPS7A2033PDBVR"
+			(property "SUPPLIER PART NUMBER 1" "863-NCP161ASN330T1G"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2307,7 +2307,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "IC LDO TPS7A2033_1_0"
+			(symbol "IC LDO NCP161ASN330T1G_1_0"
 				(rectangle
 					(start 7.62 7.62)
 					(end -7.62 -5.08)
@@ -8361,7 +8361,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Thunderscope_Rev5:IC LDO TPS7A2033")
+		(lib_id "Thunderscope_Rev5:IC LDO NCP161ASN330T1G")
 		(at 93.98 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8378,7 +8378,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "TPS7A2033"
+		(property "Value" "NCP161ASN330T1G"
 			(at 86.36 45.72 0)
 			(effects
 				(font
@@ -8405,7 +8405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 300mA SOT-23-5"
+		(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 450mA SOT-23-5"
 			(at 93.98 38.1 0)
 			(effects
 				(font
@@ -8414,7 +8414,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Texas Instruments"
+		(property "MANUFACTURER" "onsemi"
 			(at 78.232 27.94 0)
 			(effects
 				(font
@@ -8434,7 +8434,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER PART NUMBER" "TPS7A2033PDBVR"
+		(property "MANUFACTURER PART NUMBER" "NCP161ASN330T1G"
 			(at 78.232 27.94 0)
 			(effects
 				(font
@@ -8444,7 +8444,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER 1" "Texas Instruments"
+		(property "SUPPLIER 1" "Mouser"
 			(at 78.232 27.94 0)
 			(effects
 				(font
@@ -8454,7 +8454,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER PART NUMBER 1" "TPS7A2033PDBVR"
+		(property "SUPPLIER PART NUMBER 1" "863-NCP161ASN330T1G"
 			(at 78.232 27.94 0)
 			(effects
 				(font
@@ -15239,7 +15239,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Thunderscope_Rev5:IC LDO TPS7A2033")
+		(lib_id "Thunderscope_Rev5:IC LDO NCP161ASN330T1G")
 		(at 83.82 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15256,7 +15256,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "TPS7A2033"
+		(property "Value" "NCP161ASN330T1G"
 			(at 76.2 182.88 0)
 			(effects
 				(font
@@ -15283,7 +15283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 300mA SOT-23-5"
+		(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 450mA SOT-23-5"
 			(at 83.82 175.26 0)
 			(effects
 				(font
@@ -15292,7 +15292,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Texas Instruments"
+		(property "MANUFACTURER" "onsemi"
 			(at 68.072 165.1 0)
 			(effects
 				(font
@@ -15312,7 +15312,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER PART NUMBER" "TPS7A2033PDBVR"
+		(property "MANUFACTURER PART NUMBER" "NCP161ASN330T1G"
 			(at 68.072 165.1 0)
 			(effects
 				(font
@@ -15322,7 +15322,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER 1" "Texas Instruments"
+		(property "SUPPLIER 1" "Mouser"
 			(at 68.072 165.1 0)
 			(effects
 				(font
@@ -15332,7 +15332,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER PART NUMBER 1" "TPS7A2033PDBVR"
+		(property "SUPPLIER PART NUMBER 1" "863-NCP161ASN330T1G"
 			(at 68.072 165.1 0)
 			(effects
 				(font
